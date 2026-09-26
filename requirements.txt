@@ -1,0 +1,10 @@
+pandas
+numpy
+openpyxl
+requests
+yfinance
+matplotlib
+selenium
+beautifulsoup4
+lxml
+pywin32; sys_platform == "win32"

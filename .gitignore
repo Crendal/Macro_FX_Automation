@@ -1,0 +1,17 @@
+# 개인 설정 / 비밀값
+.env
+.fx_local.json
+
+# 실제 작업 파일 (루트에 두는 워크북/PPT/산출물은 커밋하지 않음 — 참고용은 samples/)
+/*.xlsx
+/*.pptx
+ecos_rates.xlsx
+fx_chart_images/
+*_before_auto.pptx
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
